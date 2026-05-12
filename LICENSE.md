@@ -1,4 +1,4 @@
-# 
+# AI-powered Polymarket Addon | trailing-stops + API-integration is the best Polymarket addon, featuring trailing-stops and API-integration. Smart, fast, and optimized for trading
 
 
 
